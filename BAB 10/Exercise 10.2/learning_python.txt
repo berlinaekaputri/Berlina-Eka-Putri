@@ -1,0 +1,6 @@
+Dalam Python, kita dapat membuat variabel untuk menyimpan data.
+Dalam Python, kita dapat menggunakan list dan dictionary untuk menyimpan kumpulan data.
+Dalam Python, kita dapat menggunakan perulangan untuk menjalankan perintah berulang kali.
+Dalam Python, kita dapat membuat fungsi untuk mengelompokkan kode.
+Dalam Python, kita dapat membuat class dan object menggunakan konsep OOP.
+Dalam Python, kita dapat menggunakan module untuk menambahkan fitur pada program.
